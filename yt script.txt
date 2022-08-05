@@ -1,0 +1,61 @@
+i'm trying to improve my html & css skills, 
+so i went to frontend mentor, which is a website
+that challanges developers to build real wolrd projects
+to help improve their skills. And so i selected this website
+to build.
+
+I went ahead to download all the files
+required to build the webpage from frontend mentor, and I got to work.
+
+The first thing i did was to divide the page in to two sections,
+image section &
+text section.
+(silence)
+
+After that, i made the basic structure of the website.
+(silence and show the structure).
+yeah i think it looks cool. joking smiling thumbs up.
+
+the main website has a space around it, and i need to add that.
+all i have to do is just add padding right?
+(show)(silence)
+well not exactly.
+
+I played around with it for a little bit more.
+after so many failed attempts of trying to add the spaces, i decided to remove the image temporarily,
+and replace it with a solid color. by doing this, it becomes easier to get the basic structure of 
+the webpage down first, before finally adding back the image.
+
+I also gave each section background-colors to aid my styling, 
+and help know the actual postion of each elements.
+(show)
+after doing this, i immediately realised that the container 
+for the image section and text section (ouline the container) was not at
+the center of the page and i neededed to do that first.
+
+i also realised i was supposed to add margin initally, not padding
+(dissapointed emoji)
+(show)
+Thats a lots better.
+Yeah pro tip use background colors. although im not sure if im qualified to give tips 
+but o well..
+
+i played around with for a little bit more and made the site fit the browser window.
+somthing like this. (show) and added centered it perfectly
+
+now i can add the image right?
+(show)
+bro where did all the text go to.
+
+after little playing around i fixed the problem and got to look like this.
+(show)
+but comparing it to the original image, its a bit big so i reduced it.(show)
+and the finally added the rounded corners and the corect colors(show).
+
+so now what was left for me was to style the text section.
+and after a little bit of styling i got it to look like this
+(show)
+
+
+
+ 
