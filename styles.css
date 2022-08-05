@@ -18,7 +18,6 @@
     display: flex;
     margin: auto;
     width: 40%;
-    height: px;
     
 }
 body {
@@ -37,11 +36,13 @@ body {
 }
 .fourth-item h2 {
     font-family: 'Fraunces', sans-serif;
+    color: hsl(158, 36%, 37%);
 }
 .img-section  {
     width: 50%;    
 }
 .img-section img {
+    content: url(images/image-product-desktop.jpg);
     height: 100%;
     width: 100%;
     border-top-left-radius: 10px; 
@@ -66,9 +67,85 @@ body {
 .fifth-item {
     padding-top: 10px;
 }
+.fifth-item button{
+    background-color: hsl(158, 36%, 37%);
+    border: none;
+    padding: 10px 50px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 5px;
+    color: white
+}
+.fifth-item button:hover {
+    background-color: hsl(158, 37%, 20%);
+}
+.fourth-item s {
+    font-size: 14px;
+    color: hsl(212, 21%, 14%);
+}
 p { 
     font-size: 14px;
-    font-weight: 100;
+    line-height: 20px;
 }
+
+@media only screen and (max-width: 1000px) {
+    .container {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .container {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .container {
+        width: 90%;
+        display: block;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+    .img-section  {
+        width: 100%;
+        margin: 0;    
+    }
+    .text-section {
+        width: 100%;
+    }
+    body {
+        display: block;
+    }
+    .img-section img {
+        content: url(images/image-product-mobile.jpg); 
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 10px;
+    }
+    .text-section {
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 10px;
+    }
+}
+/*.container {
+        display: block;
+        width: 100%;
+    }
+
+    .img-section  {
+        width: 100%;    
+    }
+    .text-section {
+        width: 100%;
+    }
+    body {
+        display: block;
+    }*/
 
 
