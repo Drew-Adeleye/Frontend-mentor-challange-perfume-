@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-1VwkGbmgeh)
-- Live Site URL: [](https://frontendmentorperfumechallenge.pages.dev/)
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/responsive-landing-page-using-flexbox-1VwkGbmgeh)
+- Live Site URL: [Live url](https://frontendmentorperfumechallenge.pages.dev/)
 
 
 ### Built with
