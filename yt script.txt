@@ -56,6 +56,12 @@ so now what was left for me was to style the text section.
 and after a little bit of styling i got it to look like this
 (show)
 
+and the finally i added in responsiveness. so what you on a mobile device
+will be different form what you see on a desktop. somthing like this.
+(show)
+i added in the correct font, styled button, and added the the finishing touches.
+and now were done. this is what the page looked like.(show)
+
 
 
 

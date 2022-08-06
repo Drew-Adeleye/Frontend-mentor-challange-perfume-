@@ -42,7 +42,6 @@ body {
     width: 50%;    
 }
 .img-section img {
-    content: url(images/image-product-desktop.jpg);
     height: 100%;
     width: 100%;
     border-top-left-radius: 10px; 
