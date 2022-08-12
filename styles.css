@@ -17,8 +17,7 @@
 .container {
     display: flex;
     margin: auto;
-    width: 40%;
-    
+    width: min(80%, 600px);    
 }
 body {
     padding: 0;
@@ -87,27 +86,9 @@ p {
     line-height: 20px;
 }
 
-@media only screen and (max-width: 1000px) {
-    .container {
-        width: 60%;
-    }
-}
-
-@media only screen and (max-width: 700px) {
-    .container {
-        width: 80%;
-    }
-}
-
 @media only screen and (max-width: 500px) {
     .container {
-        width: 90%;
-    }
-}
-
-@media only screen and (max-width: 375px) {
-    .container {
-        width: 90%;
+        width: min(90%, 400px);
         display: block;
         margin-top: 15px;
         margin-bottom: 15px;
@@ -119,10 +100,8 @@ p {
     .text-section {
         width: 100%;
     }
-    body {
-        display: block;
-    }
     .img-section img {
+        display: block;
         content: url(images/image-product-mobile.jpg); 
         border-bottom-left-radius: 0px;
         border-top-right-radius: 10px;
